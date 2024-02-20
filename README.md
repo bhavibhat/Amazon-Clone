@@ -2,5 +2,5 @@ This project is a clone of the popular e-commerce platform Amazon, built for lea
 
 
 Technologies Used:
-html
+html and
 css
